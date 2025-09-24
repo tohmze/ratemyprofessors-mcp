@@ -88,4 +88,4 @@ Demo of using the RateMyProf MCP server in Claude Desktop:
 
 ## Acknowledgements
 
-This project uses the [rmp-ts-api](https://github.com/DeveloperMindset123/rmp-ts-api) Typescript Wrapper API by @DeveloperMindset123. Big thanks for making it! 
+This project uses the [rmp-ts-api](https://github.com/DeveloperMindset123/rmp-ts-api) Typescript Wrapper API by [@DeveloperMindset123](https://github.com/DeveloperMindset123). Big thanks for making it! 
